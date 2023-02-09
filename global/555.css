@@ -1,0 +1,41 @@
+ 
+ ul:link {
+  text-decoration: none;
+}
+a:hover {
+    color: rgb(16, 5, 171); 
+    cursor: pointer;   
+}
+ .f_container
+{  
+    display: inline-flex;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+     flex: 3 0 auto;
+     height: 45px;      
+}
+li{
+    list-style: none;
+    display: inline;  
+}
+.f_image
+{
+    margin-left: 320px;
+    border-radius: 5px; 
+}
+.first_contain
+{
+    display: inline-flex;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.contain
+{
+    color: rgb(105, 103, 103);
+    font-size: 13px;
+    font-family:monospace;
+    margin-inline-start: 10px; 
+}
